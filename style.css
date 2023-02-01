@@ -10,6 +10,14 @@ div.color-blue > p {
 div.color-blue > p.color-black {
   color: black;
 }
+.yellow-color {
+  background: yellow;
+}
+
+.yellow-color > p {
+  background: yellow;
+  color: purple;
+}
 
 div {
   color: red;
